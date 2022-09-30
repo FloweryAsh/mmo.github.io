@@ -1,0 +1,29 @@
+body {
+    background-color:gray ;
+}
+
+ul {
+    list-style-type: none;
+    height:200px;
+    width: 200px;
+}
+
+ul {
+    list-style-image: url("8.jpg") ;
+}
+
+#o {
+    color: #000;
+ }
+
+ .ji {
+      color: aquamarine;
+ }
+
+ a:visited{
+    color:red;
+ }
+
+ a:hover{
+    color:darkorange;
+ }
