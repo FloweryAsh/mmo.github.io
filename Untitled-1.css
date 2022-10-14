@@ -8,9 +8,7 @@ ul {
     width: 200px;
 }
 
-ul {
-    list-style-image: url("8.jpg") ;
-}
+
 
 #o {
     color: #000;
@@ -27,3 +25,16 @@ ul {
  a:hover{
     color:darkorange;
  }
+
+ #red{
+    padding: 9px 5px 9px 5px;
+    border: 15px double rebeccapurple;
+    margin: 6px;
+ }
+
+.A{
+    padding: 4px 9px 4px 9px;
+    border: 15px solid rgb(29, 169, 19);
+    margin: auto;
+    width: 50%;
+}
