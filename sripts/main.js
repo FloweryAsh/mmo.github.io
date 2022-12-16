@@ -1,2 +1,5 @@
-let myHeading = document.querySelector('h2');
-myHeading.textContent = "Hello World";
+function toggle_info() {
+    const foo = document.getElementById("foo");
+
+    foo.classList.toggle("invi");
+}
